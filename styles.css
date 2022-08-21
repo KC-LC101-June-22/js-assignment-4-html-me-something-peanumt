@@ -1,5 +1,12 @@
 /* Write your CSS here! */
-mainHeading {margin: 25px}
-p {margin: 25px;
-font: rgb(154, 154, 237);}
-img {margin: 25px}
+h1 {
+    font-size: 500;
+    text-align:center;
+    font: red;
+    margin: 25px}
+p { text-align: center;
+    margin: 25px;
+    font: blue;
+}
+img {align-self: center;
+    margin: 25px}
