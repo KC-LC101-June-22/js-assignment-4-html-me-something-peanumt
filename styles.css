@@ -1,5 +1,5 @@
 /* Write your CSS here! */
-.mainHeading {
+#mainHeading {
     font-size: 500;
     text-align:center;
     color: red;
